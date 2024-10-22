@@ -1,3 +1,12 @@
+# arena ext
+
+Build and run with
+```sh
+make
+```
+
+Review Makefile to install datasets.
+
 # DiffuScene
 
 [**Paper**](https://arxiv.org/abs/2303.14207.pdf) | [**arXiv**](https://arxiv.org/abs/2303.14207.pdf)  | [**Video**](https://www.youtube.com/embed/PFi-03T1lN0) | [**Project Page**](https://tangjiapeng.github.io/projects/DiffuScene/) <br>
